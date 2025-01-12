@@ -1,3 +1,4 @@
+// All migrations are good now.
 datasource db {
   provider = "postgresql"
   url      = env("DATABASE_URL")
